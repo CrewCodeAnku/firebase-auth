@@ -17,8 +17,7 @@ const SignUp = (props) => {
       );
       store.addNotification({
         title: "Success",
-        message:
-          "Signup successful! Verify your email address through email sent to your email address",
+        message: "Signup successful! Please login with your credentials",
         type: "success",
         insert: "top",
         container: "top-right",

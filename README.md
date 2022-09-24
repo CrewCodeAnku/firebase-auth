@@ -19,3 +19,9 @@
 ```bash
  yarn start
 ```
+
+**3. Loom video introduction and project explanation :-**
+
+https://www.loom.com/share/363334ce8bc740c4afb5ea2141b2fa97
+
+**4.Figma Link :-**
