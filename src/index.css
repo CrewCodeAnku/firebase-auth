@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html,
+  body {
+    font-family: "Jost", sans-serif;
+    background-color: aliceblue;
+    font-size: 18px;
+    line-height: 2em;
+  }
+}
